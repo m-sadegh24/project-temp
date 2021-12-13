@@ -1,0 +1,15 @@
+# Temporary Project
+
+## How to Run
+First, run the following in your terminal to add project root directory to python search path:
+
+'''
+export PYTHONPATH=${PWD}
+'''
+
+
+Then, run the main project
+script by:
+'''
+python src/run.py
+'''
