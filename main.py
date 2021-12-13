@@ -21,3 +21,5 @@ print(v.max_speed,v.mileage)
 print(v.fare())
 b = Bus('Tesla', 180, 9999999, 60)
 print(b.fare())
+
+print("kale pacheeee")
